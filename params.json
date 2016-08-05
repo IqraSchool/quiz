@@ -1,6 +1,6 @@
 {
   "name": "Independence Day - Quiz Competition",
   "tagline": "",
-  "body": "### Welcome \r\nYou can either download the scope by clicking on download as zip button or you can [view](https://github.com/IqraSchool/quiz/blob/master/Scope.pdf/) it on GitHub.\r\n",
+  "body": "### Welcome \r\nYou can either download the scope by clicking on download as zip button or you can <a href=\"https://github.com/IqraSchool/quiz/blob/master/Scope.pdf/\" target=\"_blank\">view</a> it on GitHub.\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
